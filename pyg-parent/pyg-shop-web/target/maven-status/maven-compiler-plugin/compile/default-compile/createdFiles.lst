@@ -1,0 +1,7 @@
+com\pyg\web\UploadController.class
+com\pyg\web\GoodsController.class
+com\pyg\web\ItemCatController.class
+com\pyg\service\UserDetailsServiceImpl.class
+com\pyg\web\SellerController.class
+com\pyg\web\shopLoginController.class
+com\pyg\web\TypeTemplateController.class
